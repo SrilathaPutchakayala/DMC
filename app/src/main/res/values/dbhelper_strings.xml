@@ -1,0 +1,16 @@
+<resources>
+
+
+    <!-- Shifts table details -->
+    <string name="db_shifts_table_name">shifts</string>
+    <string name="shift_col_id">id</string>
+    <string name="shift_col_start">starttime</string>
+    <string name="shift_col_end">endtime</string>
+    <string name="shift_col_start_lat">startlatitude</string>
+    <string name="shift_col_start_lon">startlongitude</string>
+    <string name="shift_col_end_lat">endlatitude</string>
+    <string name="shift_col_end_lon">endlongitude</string>
+    <string name="shift_col_image">image</string>
+    <string name="shift_col_image_bytes">imagebytes</string>
+
+</resources>

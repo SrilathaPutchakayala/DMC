@@ -1,3 +1,28 @@
 <resources>
-    <string name="app_name">DMC</string>
+
+    <string name="app_name">Deputy</string>
+    <string name="base_url">https://apjoqdqpi3.execute-api.us-west-2.amazonaws.com/</string>
+
+    <string-array name="nav_drawer_items">
+        <item>@string/shifts</item>
+        <item>@string/profile</item>
+
+    </string-array>
+
+    <string name="shifts">Shifts</string>
+    <string name="profile">Profile</string>
+
+    <string name="start_shift">Start Shift</string>
+    <string name="end_shift">End Shift</string>
+    <string name="shift_details">Shift Details</string>
+    <string name="display_shift">Display Shift</string>
+    <string name="shift_start_time">Shift Start Time:</string>
+    <string name="shift_end_time">Shift End Time:</string>
+
+    <string name="shift_day">Shift Details:</string>
+
+    <string name="shared_prefs_name">Deputy_Shared_Pref_Name</string>
+    <string name="editor_prefs_business_name">BUSINESS_NAME</string>
+    <string name="editor_prefs_shift_status">SHIFT_STATUS</string>
+
 </resources>
